@@ -79,7 +79,7 @@ test('Verify Login failed with invalid username & valid password', async ({ page
     
     await page.getByRole('button', { name: 'LOGIN' }).click();
   
-    await expect(page.locator('#root')).not.toContainText('If you do not have an account, contact an admin');
+    await expect(page.locator('#root')).toContainText('If you do not have an account, contact an admin');
      
   
   });
