@@ -14,7 +14,9 @@ e. Create First Test [npx playwright test –init] This will create a playwright
 
 project structure that looks like:   
 
-playwright Automation --> tests --> TestLogIn_1st_Credential.spec.js                                                                                                   playwright Automation --> tests --> TestLogIn_2nd_Credential.spec.js
+playwright Automation --> tests --> TestLogIn_1st_Credential.spec.js  
+
+playwright Automation --> tests --> TestLogIn_2nd_Credential.spec.js
 
 f. How to run test scripts: [Below are the 2 spec.js files of my test scripts for the QA quiz]    
 
