@@ -27,11 +27,16 @@ f. How to run test scripts: [Below are the 2 spec.js files of my test scripts fo
 g. How to show HTML report:                                                                                                                                        [npx playwright show-report]
 
 NB: For automation test scripts I use Codegen which is the built-in Playwright tool that records the actions in the browser and automatically generates the test scripts.
-[npx playwright codegen -o tests/ TestLogIn_1st_Credential.spec.js]                                                                                                   [npx playwright codegen -o tests/ TestLogIn_2nd_Credential.spec.js]
+
+[npx playwright codegen -o tests/ TestLogIn_1st_Credential.spec.js]  
+
+[npx playwright codegen -o tests/ TestLogIn_2nd_Credential.spec.js]
 
 Test Scenarios Covered for both the script files:  
 
-[TestLogIn_1st_Credential.spec.js]                                                                                                                  [TestLogIn_2nd_Credential.spec.js]
+[TestLogIn_1st_Credential.spec.js] 
+
+[TestLogIn_2nd_Credential.spec.js]
 
    1.	Verify browser has correct title
    2.	Verify the Login page has the correct header
