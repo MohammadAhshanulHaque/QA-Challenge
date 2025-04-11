@@ -2,6 +2,7 @@ For this QA challenge I use Playwright which is an open-source test automation f
 
 Environment Setup for Playwright: 
 a. Install Node.js 
+
 b. Create a Project Folder 
 c. Initialize a Node.js Project 
 d. Install Playwright 
