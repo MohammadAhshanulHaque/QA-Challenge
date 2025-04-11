@@ -20,7 +20,9 @@ playwright Automation --> tests --> TestLogIn_2nd_Credential.spec.js
 
 f. How to run test scripts: [Below are the 2 spec.js files of my test scripts for the QA quiz]    
 
-[npx playwright test TestLogIn_1st_Credential.spec.js --headed]                                                                                                       [npx playwright test TestLogIn_2nd_Credential.spec.js --headed]
+[npx playwright test TestLogIn_1st_Credential.spec.js --headed]
+
+[npx playwright test TestLogIn_2nd_Credential.spec.js --headed]
 
 g. How to show HTML report:                                                                                                                                        [npx playwright show-report]
 
