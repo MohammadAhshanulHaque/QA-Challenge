@@ -4,8 +4,11 @@ Environment Setup for Playwright:
 a. Install Node.js 
 
 b. Create a Project Folder 
+
 c. Initialize a Node.js Project 
+
 d. Install Playwright 
+
 e. Create First Test [npx playwright test –init] This will create a playwright.config.js & set up a “tests” folder with an example test
 
 project structure that looks like:                                                                         
