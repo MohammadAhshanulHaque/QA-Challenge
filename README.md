@@ -1,6 +1,7 @@
 For this QA challenge I use Playwright which is an open-source test automation framework & VS Code (Visual Studio Code).
 
 Environment Setup for Playwright: 
+
 a. Install Node.js 
 
 b. Create a Project Folder 
